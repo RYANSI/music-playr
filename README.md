@@ -1,3 +1,2 @@
-# music-playr
-d
-creat e a new music player 
+# Coming Soon 1
+In part of the class 
